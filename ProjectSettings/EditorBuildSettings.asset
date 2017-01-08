@@ -6,6 +6,38 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes_11_15/clear_stage11.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/clear_stage12.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/clear_stage13.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/clear_stage14.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/clear_stage15.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/gemeover_stage11.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/gemeover_stage12.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/gemeover_stage13.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/gemeover_stage14.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/gemeover_stage15.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/StageSelect_11_15.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/v2_stage11.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/v2_stage12.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/v2_stage13.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/v2_stage14.unity
+  - enabled: 1
+    path: Assets/Scenes_11_15/v2_stage15.unity
+  - enabled: 1
     path: Assets/Scenes_share/opening.unity
   - enabled: 1
     path: Assets/Scenes_1_5/clear_stage1.unity

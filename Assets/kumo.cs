@@ -30,10 +30,10 @@ public class kumo : MonoBehaviour {
 	void Update () {
 		if(movefalg == true){
 			transform.Translate (Vector3.up * Time.deltaTime * -1 * speed);
-			ito.transform.localScale += Vector3.up * Time.deltaTime * 1 * speed / 2;
+			ito.transform.localScale += Vector3.up * Time.deltaTime * 1.5f * speed / 2;
 		}else{
 			transform.Translate (Vector3.up * Time.deltaTime * speed);
-			ito.transform.localScale += Vector3.up * Time.deltaTime * -1 * speed / 2;
+			ito.transform.localScale += Vector3.up * Time.deltaTime * -1.5f * speed / 2;
 		}
 		
 
