@@ -26,7 +26,7 @@ public class bane : MonoBehaviour {
     }
     void OnTriggerStay(Collider other)
     {
-        if(other.name == "chara")
+		if(other.tag == "Player" )
         {
             ChangeSprites2();
         }
@@ -34,7 +34,7 @@ public class bane : MonoBehaviour {
 
     void OnTriggerExit(Collider other)
     {
-        if (other.name == "chara")
+		if (other.tag == "Player")
         {
             ChangeSprites1();
 			baneoto.PlayOneShot (baneoto.clip);
